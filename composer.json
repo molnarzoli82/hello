@@ -1,0 +1,8 @@
+{
+  "name": "Hello",
+  "homepage": "http://packages.example.org",
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/molnarzoli82/hello" }
+  ],
+  "require-all": true
+}
